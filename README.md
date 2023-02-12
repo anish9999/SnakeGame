@@ -1,2 +1,2 @@
 # SnakeGame
-classic thrilling gamesd
+classic thrilling gamed
