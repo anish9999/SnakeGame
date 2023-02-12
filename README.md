@@ -1,2 +1,2 @@
 # SnakeGame
-classic thrilling gamees
+classic thrilling gamee\s
