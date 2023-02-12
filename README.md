@@ -1,2 +1,2 @@
 # SnakeGame
-classic thrilling game
+classic thrilling games
